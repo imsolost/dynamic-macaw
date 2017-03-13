@@ -16,7 +16,7 @@ Your objectives for the day is to:
 
 ### Scopes
 
-- [ ] Watch these videos on Type and Scope
+- [x] Watch these videos on Type and Scope
   - https://shereef.wistia.com/medias/mlnjxm9z9s
   - https://shereef.wistia.com/medias/hn99v12lkr
   - https://shereef.wistia.com/medias/6snmj6es7v
